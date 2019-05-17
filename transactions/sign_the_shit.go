@@ -8,9 +8,9 @@ import (
 	//"log"
 	"math/big"
 
-	"github.com/asuleymanov/steem-go/transactions/rfc6979"
 	secp256k1 "github.com/btcsuite/btcd/btcec"
 	"github.com/pkg/errors"
+	"steem-go/transactions/rfc6979"
 )
 
 //SignSingle signature of the transaction by one of the keys

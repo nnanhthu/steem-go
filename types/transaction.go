@@ -3,7 +3,7 @@ package types
 import (
 	"errors"
 
-	"github.com/asuleymanov/steem-go/encoding/transaction"
+	"steem-go/encoding/transaction"
 )
 
 // Transaction represents a blockchain transaction.

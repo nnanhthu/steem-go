@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/asuleymanov/steem-go/encoding/transaction"
+	"steem-go/encoding/transaction"
 )
 
 //TransferOperation represents transfer operation data.

@@ -1,7 +1,7 @@
 package types
 
 import (
-	"github.com/asuleymanov/steem-go/encoding/transaction"
+	"steem-go/encoding/transaction"
 )
 
 //Beneficiary is an additional structure used by other structures.

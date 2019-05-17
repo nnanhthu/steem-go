@@ -3,9 +3,9 @@ package client
 import (
 	"time"
 
-	"github.com/asuleymanov/steem-go/api"
-	"github.com/asuleymanov/steem-go/transactions"
-	"github.com/asuleymanov/steem-go/types"
+	"steem-go/api"
+	"steem-go/transactions"
+	"steem-go/types"
 )
 
 //BResp of response when sending a transaction.

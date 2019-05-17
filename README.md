@@ -8,7 +8,7 @@ Golang RPC client library for [Steem](https://steemit.com).
 ## Usage
 
 ```go
-import "github.com/asuleymanov/steem-go"
+import "github.com/nnanhthu/steem-go"
 ```
 
 
@@ -18,7 +18,7 @@ This is just a code snippet. Please check the `examples` directory
 for more complete and ready to use examples.
 
 ```go
-	cls,_ := client.NewClient([]string{"ws://localhost:8090"},"steem")
+	cls,_ := client.NewClient([]string{"ws://localhost:9876"},"steem")
 	defer cls.Close()
 	
 	// Get config.

@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/asuleymanov/steem-go/types"
 	"github.com/gorilla/websocket"
 	"github.com/pkg/errors"
+	"steem-go/types"
 )
 
 var (

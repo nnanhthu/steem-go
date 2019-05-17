@@ -3,11 +3,11 @@ package client
 import (
 	"net/url"
 
-	"github.com/asuleymanov/steem-go/api"
-	"github.com/asuleymanov/steem-go/transports"
-	"github.com/asuleymanov/steem-go/transports/http"
-	"github.com/asuleymanov/steem-go/transports/websocket"
 	"github.com/pkg/errors"
+	"steem-go/api"
+	"steem-go/transports"
+	"steem-go/transports/http"
+	"steem-go/transports/websocket"
 )
 
 var (

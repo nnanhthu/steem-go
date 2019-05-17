@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/asuleymanov/steem-go/encoding/transaction"
 	"github.com/pkg/errors"
+	"steem-go/encoding/transaction"
 )
 
 var (

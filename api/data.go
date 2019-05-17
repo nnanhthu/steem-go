@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/asuleymanov/steem-go/types"
+	"steem-go/types"
 )
 
 //BroadcastResponse structure for the BroadcastTransactionSynchronous function

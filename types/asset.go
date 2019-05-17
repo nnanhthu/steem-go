@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/asuleymanov/steem-go/encoding/transaction"
+	"steem-go/encoding/transaction"
 )
 
 //Asset type from parameter JSON

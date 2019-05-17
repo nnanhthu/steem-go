@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"strconv"
 
-	"github.com/asuleymanov/steem-go/encoding/transaction"
 	"github.com/pkg/errors"
+	"steem-go/encoding/transaction"
 )
 
 func unmarshalInt(data []byte) (int64, error) {
